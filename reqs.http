@@ -1,4 +1,4 @@
-@subdominio = ec2-llgk
+@subdominio = ec2render
 ##############################
 # Requests SIN base de datos #
 ##############################
