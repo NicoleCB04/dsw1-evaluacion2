@@ -12,7 +12,7 @@ import java.lang.String;
 public class SinDbController {
     @GetMapping(path="/")
 	public @ResponseBody String home() {
-		return "Hola - Nicole Calcina Baquerizo";
+		return "Hola - Nicole";
 	}
     @GetMapping(path="/idat/codigo")
 	public @ResponseBody String codigo() {
